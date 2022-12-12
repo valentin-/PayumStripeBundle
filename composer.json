@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=7.2 || ^8.0",
         "flux-se/payum-stripe": "^1.2",
         "coreshop/payum-bundle": "^2.0 || ^3.0 || 3.0.0-beta.5 || dev-master"
     },
